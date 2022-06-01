@@ -1,0 +1,35 @@
+
+
+.event-list {
+    margin: 100px auto;
+}
+
+
+.event-card {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 5px 5px 5px 5px #ccc;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+.event-card h2 {
+    color: #cc0;
+}
+
+.event-card button {
+    padding: 5px 10px;
+    background: #fff;
+    font-size: 16px;
+    color: #cc0;
+    cursor: pointer;
+    border: 1px solid  silver;
+
+}
+
+.event-card button:hover {
+    background-color: #cc0;
+    color: #fff;
+}

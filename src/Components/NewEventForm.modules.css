@@ -1,0 +1,32 @@
+
+form {
+    padding:10px;
+    margin:40px auto 20px;
+    max-width: 400px;
+}
+
+form select {
+    flex-grow: 1;
+    padding: 8px 12px;
+}
+
+form span {
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    
+}
+form label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+form label input {
+    padding:8px 12px;
+    flex-grow: 1;
+    width: 50%;
+}
+form button {
+    display: inline-block;
+    margin: 0 auto;
+}
